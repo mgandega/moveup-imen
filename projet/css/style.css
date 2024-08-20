@@ -38,10 +38,25 @@ body{
     width: 20%;
     margin:auto
 }
-li{
+/* tous les li qui se trouve dans l'id nommé link*/
+#link li{
     display: inline; /*permet de mettre les li sur la même ligne */
 }
 .lien1{
     background-color:aqua;
-    display: block; /* permet de convertir un element en balise de type block */
+    /* display: block; permet de convertir un element en balise de type block */
+}
+
+#gauche{
+    border: 1px solid black;
+    width:20%;
+    vertical-align: top;
+}
+#droite{
+    border: 1px solid black;
+    width:70%;
+}
+/* les éléments qui ont comme id gauche et droite */
+#gauche,#droite{
+    display: inline-block;
 }
