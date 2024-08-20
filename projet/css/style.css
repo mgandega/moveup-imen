@@ -1,0 +1,47 @@
+/* p{
+    background-color: blue;
+} */
+
+/* on met toujours un . avant le nom de la class */
+.imen1{
+    background-color: blue; /* couleur de fond */
+    color: #ffffff; /*couleur du texte*/
+    border: 3px solid black; /*bordure de 1px de type solid et de couleur noir*/
+    /* width: 40%; width permet de changer la taille de la  largeur de l'element , ici on a 40% de la taille de l'écran (body) */
+    display: inline-block; /* permet de convertir un element de type block en type inline */
+}
+
+/* on met toujours un # avant le nom de l'id (identifiant) */
+#imen3{
+    background-color: green;
+    width:50%;
+}
+#imen4{
+    background-color: maroon;
+}
+body{
+    width: 90%;
+    margin:auto;
+}
+
+#voiture{
+    width: 100%; /*l'image prend 100% de la taille du container*/
+    height: 300px;
+}
+#citroen{
+    width: 70%; /* le container prend 60% de la taille de l'ecran */
+    margin:auto;
+}
+
+#lien{
+    /* border: 1px solid black; */
+    width: 20%;
+    margin:auto
+}
+li{
+    display: inline; /*permet de mettre les li sur la même ligne */
+}
+.lien1{
+    background-color:aqua;
+    display: block; /* permet de convertir un element en balise de type block */
+}

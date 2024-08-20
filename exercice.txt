@@ -1,5 +1,5 @@
 -  dans le fichier accueil.html du repertoire projet , creer un lien nommé présentation qui pointe sur la page presentation.html.
-- dans la page produit.html, contact.html et presentaion.html on doit créer un lien nommé "retour à la page d'accueil" qui pointe sur la page accueil.html
+- dans la page produit.html, contact.html et presentation.html on doit créer un lien nommé "retour à la page d'accueil" qui pointe sur la page accueil.html
 - sur chaque page, créer 3 paragraphes avec une bordure de couleur noire, bleue, maron
 - les paragraphes auront une largeur de 40% de la largeur de l'écran
 - le body occupera 90% de la largeur de l'écran
