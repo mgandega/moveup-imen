@@ -1,7 +1,9 @@
 /* p{
     background-color: blue;
 } */
-
+h1{
+    text-align: center; /* permet d'aligner le texte au milieu  */
+}
 /* on met toujours un . avant le nom de la class */
 .imen1{
     background-color: blue; /* couleur de fond */
